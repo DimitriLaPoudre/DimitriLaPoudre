@@ -1,7 +1,7 @@
 # Hi👋, I'm *Lou*
 - Junior Software Developer
 - Student in 3rd Year of Computer Science
-- Just a guy who love coding
+- Just a guy who **loves** coding
 
 ## Stack
 
@@ -32,27 +32,27 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
-## Interest
+## Interests
 **Discovering and trying new things**
-- Trying to achieve maximum **optimisation** for fun with ***ASM*** and I discovering so much new things
-- I wanted to try **render a window** from flat ASM so I build **[AsmGraphic](https://github.com/DimitriLaPoudre/AsmGraphic)** an x11 wrapper from **scratch**
+- Trying to achieve maximum **optimisation** for fun with ***ASM*** and I discover so many new things
+- I wanted to try **rendering a window** from flat ASM so I built **[AsmGraphic](https://github.com/DimitriLaPoudre/AsmGraphic)** an x11 wrapper from **scratch**
 
-**Want to be polyvalent for not depend on other**
-- When I needed a way to **feed** my music library I built **[MusicShack](https://github.com/DimitriLaPoudre/MusicShack)** learning at the same time a **new** stack: ***Go***/***Svelte***
+**Want to be versatile to not depend on others**
+- When I needed a way to **feed** my music library I built **[MusicShack](https://github.com/DimitriLaPoudre/MusicShack)**, learning at the same time a **new** stack: ***Go***/***Svelte***
 
-**Understand my work environnement**
-- I actually try Nixos to see and understand the goal and benefit of a declarative OS
-- I leave VSCode for NeoVim to try and understand this niche and I lose nothing but gain powerful keybind
+**Understanding my work environnement**
+- I am currently trying Nixos to see and understand the goals and benefits of a declarative OS
+- I left VSCode for NeoVim to try and understand this niche; I lose nothing but gain powerful keybindings
 
 ## Currently working on
 **[MusicShack](https://github.com/DimitriLaPoudre/MusicShack)**
 - Lightweight Stack(**Go**/**Svelte**) music library manager
-- Import system based on plugins that can import from various sources to the library
-- Follow your favorites artists to fetch all their new songs at release
+- Import system based on plugins that can import from various sources into the library
+- Follow your favorite artists to fetch all their new songs upon release
 
-## Objectif
-Achieving the most knowledge possible to be able to build every of my need without limit  
-*I'll certainly have more precises goals in the future but for now that's it*
+## Objective
+Achieving the most knowledge possible to be able to build everything I need without limits  
+*I'll certainly have more precise goals in the future but for now that's it*
 
 ## Contact
 - Discord: @dimitri_lapoudre
