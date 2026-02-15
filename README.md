@@ -1,6 +1,4 @@
-# Hi, there 👋
-
-## I'm ***Lou***
+# Hi👋, I'm *Lou*
 - Junior Software Developer
 - Student in 3rd Year of Computer Science
 - Just a guy who love coding
