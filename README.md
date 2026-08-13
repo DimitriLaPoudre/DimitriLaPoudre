@@ -1,6 +1,6 @@
 # Hi👋, I'm *Lou*
 - Junior Software Developer
-- Student in 3rd Year of Computer Science
+- Student in 4th Year of Computer Science
 - Just a guy who **loves** coding
 
 ## Stack
